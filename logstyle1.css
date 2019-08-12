@@ -1,0 +1,49 @@
+
+    body, html{
+      font-size: 20px;
+      background: rgb(0, 0, 0);
+      background-image: image("My HTML Files/lion2.jpg");
+    }
+    h1{
+      font-size: 2rem;
+      text-align: center;
+      background: rgb(89, 235, 89);
+      margin-left: 750px;
+      margin-right: 750px;
+    }
+    nav{
+      font-size: 1.2rem;
+      color: rgb(35, 14, 231);
+      font-family: sans-serif;
+      background: rgb(0, 0, 0);
+      border: 2px white solid;
+      text-align: center;
+    } 
+    p {
+        font-size: 1.1rem; /*client insists on this font size*/
+        line-height: .5rem;
+        color: white;
+      }
+  
+      /* this is a comment in css */
+    img{
+      height: 300px;
+      border: 2px white solid;
+      margin: 5px;
+      margin-inline-end: 5rem;
+      margin-left: 4rem;
+    }
+    video{
+      height: 300px;
+    }
+    section{
+      color: white;
+    }
+    li{
+      display: inline-table;
+      margin-inline: 5rem;
+    }
+
+
+
+
